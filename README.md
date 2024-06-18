@@ -3,7 +3,7 @@ libsodium as a framework for iOS and macOS.
 
 This repository provides the [libsodium](https://github.com/jedisct1/libsodium) as a framework which can be simply imported to your project by adding `zhuhaow/Sodium-framework` to your `Cartfile`.
 
-Binary files are compiled with `dist-build/osx.sh` and `dist-build/ios.sh` in the official [libsodium](https://github.com/jedisct1/libsodium) repository.
+Binary files are compiled with `dist-build/osx.sh` and `dist-build/apple-xcframework.sh` in the official [libsodium](https://github.com/jedisct1/libsodium) repository.
 
 There is no wrapper, no Objective-c or Swift helper, just the C interface.
 
